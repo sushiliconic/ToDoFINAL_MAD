@@ -24,7 +24,7 @@
 ![](app/src/main/res/drawable/edit2.jpg)
 
 ## Delete All
-![](app/src/main/res/drawable/deleteapp.jpg)
+![](app/src/main/res/drawable/deleteall.jpg)
 
 ## License
 Sushil Ghimire
