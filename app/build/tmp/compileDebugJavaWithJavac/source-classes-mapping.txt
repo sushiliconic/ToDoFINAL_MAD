@@ -1,0 +1,66 @@
+com/example/todo_mvvmsushil/dao/TodoDao.java
+ com.example.todo_mvvmsushil.dao.TodoDao
+com/example/todo_mvvmsushil/adapters/CategoryAdapter.java
+ com.example.todo_mvvmsushil.adapters.CategoryAdapter
+ com.example.todo_mvvmsushil.adapters.CategoryAdapter$CategoryViewHolder
+com/example/todo_mvvmsushil/repositories/TodoRepository.java
+ com.example.todo_mvvmsushil.repositories.TodoRepository
+com/example/todo_mvvmsushil/MainActivity.java
+ com.example.todo_mvvmsushil.MainActivity
+ com.example.todo_mvvmsushil.MainActivity$1
+ com.example.todo_mvvmsushil.MainActivity$2
+ com.example.todo_mvvmsushil.MainActivity$2$1
+ com.example.todo_mvvmsushil.MainActivity$2$2
+ com.example.todo_mvvmsushil.MainActivity$3
+com/example/todo_mvvmsushil/activities/ViewTodosActivity.java
+ com.example.todo_mvvmsushil.activities.ViewTodosActivity
+ com.example.todo_mvvmsushil.activities.ViewTodosActivity$1
+ com.example.todo_mvvmsushil.activities.ViewTodosActivity$2
+ com.example.todo_mvvmsushil.activities.ViewTodosActivity$3
+ com.example.todo_mvvmsushil.activities.ViewTodosActivity$4
+ com.example.todo_mvvmsushil.activities.ViewTodosActivity$5
+ com.example.todo_mvvmsushil.activities.ViewTodosActivity$6
+ com.example.todo_mvvmsushil.activities.ViewTodosActivity$7
+com/example/todo_mvvmsushil/activities/AddTodoActivity.java
+ com.example.todo_mvvmsushil.activities.AddTodoActivity
+ com.example.todo_mvvmsushil.activities.AddTodoActivity$1
+ com.example.todo_mvvmsushil.activities.AddTodoActivity$2
+ com.example.todo_mvvmsushil.activities.AddTodoActivity$3
+ com.example.todo_mvvmsushil.activities.AddTodoActivity$4
+ com.example.todo_mvvmsushil.activities.AddTodoActivity$5
+com/example/todo_mvvmsushil/listeners/OnTodoCompletedListener.java
+ com.example.todo_mvvmsushil.listeners.OnTodoCompletedListener
+com/example/todo_mvvmsushil/activities/SplashScreenActivity.java
+ com.example.todo_mvvmsushil.activities.SplashScreenActivity
+ com.example.todo_mvvmsushil.activities.SplashScreenActivity$1
+com/example/todo_mvvmsushil/listeners/OnUpdateSelectListener.java
+ com.example.todo_mvvmsushil.listeners.OnUpdateSelectListener
+com/example/todo_mvvmsushil/viewmodels/TodoViewModel.java
+ com.example.todo_mvvmsushil.viewmodels.TodoViewModel
+com/example/todo_mvvmsushil/BuildConfig.java
+ com.example.todo_mvvmsushil.BuildConfig
+com/example/todo_mvvmsushil/adapters/TodoAdapter.java
+ com.example.todo_mvvmsushil.adapters.TodoAdapter
+ com.example.todo_mvvmsushil.adapters.TodoAdapter$TodoViewHolder
+ com.example.todo_mvvmsushil.adapters.TodoAdapter$TodoViewHolder$1
+ com.example.todo_mvvmsushil.adapters.TodoAdapter$TodoViewHolder$2
+com/example/todo_mvvmsushil/models/Todo.java
+ com.example.todo_mvvmsushil.models.Todo
+com/example/todo_mvvmsushil/models/Category.java
+ com.example.todo_mvvmsushil.models.Category
+com/example/todo_mvvmsushil/tasks/Tasks.java
+ com.example.todo_mvvmsushil.tasks.Tasks
+ com.example.todo_mvvmsushil.tasks.Tasks$AddTodo
+ com.example.todo_mvvmsushil.tasks.Tasks$DeleteAllTodos
+ com.example.todo_mvvmsushil.tasks.Tasks$DeleteTodo
+ com.example.todo_mvvmsushil.tasks.Tasks$GetTodosByCategory
+ com.example.todo_mvvmsushil.tasks.Tasks$PopulateTodos
+ com.example.todo_mvvmsushil.tasks.Tasks$SetTodoCompleted
+ com.example.todo_mvvmsushil.tasks.Tasks$SetTodoLate
+ com.example.todo_mvvmsushil.tasks.Tasks$SetTodoUncompleted
+ com.example.todo_mvvmsushil.tasks.Tasks$UpdateTodo
+com/example/todo_mvvmsushil/databases/TodoDatabase.java
+ com.example.todo_mvvmsushil.databases.TodoDatabase
+ com.example.todo_mvvmsushil.databases.TodoDatabase$1
+com/example/todo_mvvmsushil/listeners/OnCategorySelectedListener.java
+ com.example.todo_mvvmsushil.listeners.OnCategorySelectedListener
