@@ -1,6 +1,6 @@
 # Final ToDo App
 ## GIF
-![](\app\src\main\res\drawable\todogif.gif)
+![](app\src\main\res\drawable\todogif.gif)
 
 ## Splash Screen
 ![](app\src\main\res\drawable\split.jpg)
